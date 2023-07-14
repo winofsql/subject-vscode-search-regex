@@ -7,5 +7,7 @@
 
 ## [正規表現構文早見表](https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
-- .
-  - 改行文字を除くあらゆる 1 文字と一致
+
+| 文字 | 意味 |
+----|---- 
+| . | 改行文字を除くあらゆる 1 文字と一致 |
