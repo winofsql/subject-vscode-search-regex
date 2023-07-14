@@ -4,3 +4,5 @@
 ```txt
 \$.ajax[\s\S\n]+?\)
 ```
+
+## [正規表現構文早見表](https://developer.mozilla.org/ja/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
